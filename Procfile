@@ -1,1 +1,1 @@
-web : gunicorn HEROKU_TEST.wgi --log-file -
+web : gunicorn HEROKU_TEST.wsgi --log-file -
