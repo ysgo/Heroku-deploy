@@ -7,7 +7,6 @@ ez-setup==0.9
 gunicorn==20.0.3
 heroku==0.1.4
 idna==2.8
-pkg-resources==0.0.0
 psycopg2==2.8.4
 psycopg2-binary==2.8.4
 python-dateutil==1.5
